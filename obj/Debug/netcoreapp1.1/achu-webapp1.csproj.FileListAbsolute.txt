@@ -1,0 +1,8 @@
+/Applications/deliverables/Dev/dotnet/achu-webapp1/bin/Debug/netcoreapp1.1/achu-webapp1.deps.json
+/Applications/deliverables/Dev/dotnet/achu-webapp1/bin/Debug/netcoreapp1.1/achu-webapp1.runtimeconfig.json
+/Applications/deliverables/Dev/dotnet/achu-webapp1/bin/Debug/netcoreapp1.1/achu-webapp1.runtimeconfig.dev.json
+/Applications/deliverables/Dev/dotnet/achu-webapp1/bin/Debug/netcoreapp1.1/achu-webapp1.dll
+/Applications/deliverables/Dev/dotnet/achu-webapp1/bin/Debug/netcoreapp1.1/achu-webapp1.pdb
+/Applications/deliverables/Dev/dotnet/achu-webapp1/obj/Debug/netcoreapp1.1/achu-webapp1.AssemblyInfo.cs
+/Applications/deliverables/Dev/dotnet/achu-webapp1/obj/Debug/netcoreapp1.1/achu-webapp1.dll
+/Applications/deliverables/Dev/dotnet/achu-webapp1/obj/Debug/netcoreapp1.1/achu-webapp1.pdb
